@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-fluid {
+    background-color: rgba(11, 53, 189, 0.671);
+    height: 400px;
+}
